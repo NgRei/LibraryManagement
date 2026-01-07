@@ -1,1 +1,1 @@
-# BaiThucHanh1
+# Dự án quản lý thư viện của nhóm A
